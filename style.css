@@ -1,0 +1,139 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff;
+}
+
+#redessociais {
+    display: block;
+    margin: auto;
+}
+
+.links {
+    min-width: 300px;
+    max-width: 500px;
+    background-color: #001266;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+}
+
+.links h1 {
+    color: #2896F7;
+    text-align: center;
+}
+
+#linkedin a {
+    color: #1A80D9;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#linkedin a:visited {
+    color: #0583F2;
+}
+
+#linkedin a:hover {
+    color: #0583F2;
+    text-decoration: underline;
+}
+
+#linkedin a:active {
+    color: #fff;
+}
+
+#facebook a {
+    color: #1A80D9;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#facebook a:visited {
+    color: #4895D9;
+}
+
+#facebook a:hover {
+    color: #71A8D9;
+    text-decoration: underline;
+}
+
+#facebook a:active {
+    color: #F2F2F2;
+}
+
+#twitter a {
+    color: #0583F2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#twitter a:visited {
+    color: #07B0F2;
+}
+
+#twitter a:hover {
+    color: #05C7F2;
+    text-decoration: underline;
+}
+
+#twitter a:active {
+    color: #05F2DB;
+}
+
+#instagram a {
+    color: #F26E22;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#instagram a:visited {
+    color: #F2A30F;
+}
+
+#instagram a:hover {
+    color: #BF349A;
+    text-decoration: underline;
+}
+
+#instagram a:active {
+    color: #D93D59;
+}
+
+#youtube a {
+    color: #F23838;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#youtube a:visited {
+    color: #F23838;
+}
+
+#youtube a:hover {
+    color: #F29999;
+    text-decoration: underline;
+}
+
+#youtube a:active {
+    color: #F2F2F2;
+}
+
+#github a {
+    color: #0511F2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#github a:visited {
+    color: #6368BF;
+}
+
+#github a:hover {
+    color: #7E84F2;
+    text-decoration: underline;
+}
+
+#github a:active {
+    color: #0D0D0D;
+}
